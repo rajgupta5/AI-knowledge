@@ -22,6 +22,18 @@
 - Supervised learning models need labeled datasets for training, and those are expensive to create and maintain
 - Labeling text datasets is different from labeling images, and that is different from labeling video or audio
 - platforms such as Labelbox, Snorkel.ai, and Scale AI drive innovation into the space
+- Snorkel Flow is a Platform to Unlock the Training Data Bottleneck in Machine Learning (https://www.snorkel.ai/)
+
+
+7. Machine Teaching
+- machine teaching is conceptually simple and based on the creation of intelligent models that can teach other models
+- given a set of machine learning models, a dataset, and a target task; determine the most efficient teachers to optimize the learning process
+- https://arxiv.org/abs/1912.07768 (Uber proposes a technique known as generative teaching networks (GTNs) to accelerate the training and evaluation of machine learning models.)
+![Machine Teaching](https://cdn.substack.com/image/fetch/c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F48b3d14e-bfe6-436c-bb81-4ba98cc3a4a4_696x355.png)
+
+
+8. Reinformcement Learning
+- Acme: A new framework for distributed reinforcement learning
 
 
 
@@ -30,3 +42,4 @@
 - DeText : LinkedIn open-sources DeText, a flexible framework for different natural language understanding tasks
 - TransCoder : Facebook AI Research open-sources TransCoder, a framework that uses self-supervised learning to translate code between different programming languages
 - Google open-sourced Media Pipe Iris, a new machine learning model for iris estimation, which is essential in many vision analysis applications
+- PyTorch Lightning is a Keras of PyTorch
