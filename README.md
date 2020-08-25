@@ -8,6 +8,7 @@
 
 2. Semi-Supervised Learning
 
+
 3. Model Serving
 
 4. MLFlow
@@ -23,6 +24,7 @@
 - Labeling text datasets is different from labeling images, and that is different from labeling video or audio
 - platforms such as Labelbox, Snorkel.ai, and Scale AI drive innovation into the space
 - Snorkel Flow is a Platform to Unlock the Training Data Bottleneck in Machine Learning (https://www.snorkel.ai/)
+- Labelbox is a Data Labeling Platform for your Machine Learning Models
 
 
 7. Machine Teaching
@@ -35,6 +37,8 @@
 8. Reinformcement Learning
 - Acme: A new framework for distributed reinforcement learning
 
+9. Unsupervised Data Augmentation
+- technique for addressing the challenges of training semi-supervised learning models with small labeled datasets.
 
 
 
