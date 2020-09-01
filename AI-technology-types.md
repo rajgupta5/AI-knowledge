@@ -5,7 +5,7 @@
 - Scipy
 
 
-**Machine Learning**
+**Machine/Deep Learning**
 - Keras
 - Pytorch
 - Tensorflow
