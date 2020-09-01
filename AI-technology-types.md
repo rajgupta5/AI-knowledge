@@ -1,5 +1,5 @@
 **Fundamentals**
-- Jupyter NNotebook
+- Jupyter Notebook
 - Pandas
 - Numpy
 - Scipy
@@ -10,6 +10,7 @@
 - Pytorch
 - Tensorflow
 - Scikit Learn
+- Trax
 
 
 **Data Visualization**
