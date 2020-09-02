@@ -41,6 +41,9 @@
 - technique for addressing the challenges of training semi-supervised learning models with small labeled datasets.
 
 
+10 NLP
+- Researchers at Google have developed a new deep-learning model called ![BigBird](https://www.infoq.com/news/2020/09/google-bigbird-nlp/?utm_source=notification_email&utm_campaign=notifications&utm_medium=link&utm_content=content_in_followed_topic&utm_term=daily) that allows Transformer neural networks to process sequences up to 8x longer than previously possible
+
 
 # Cool AI Tech releases
 - DeText : LinkedIn open-sources DeText, a flexible framework for different natural language understanding tasks
