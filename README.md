@@ -44,9 +44,20 @@
 10 NLP
 - Researchers at Google have developed a new deep-learning model called ![BigBird](https://www.infoq.com/news/2020/09/google-bigbird-nlp/?utm_source=notification_email&utm_campaign=notifications&utm_medium=link&utm_content=content_in_followed_topic&utm_term=daily) that allows Transformer neural networks to process sequences up to 8x longer than previously possible
 
+11. Bayesian Neural Networks
+- are a type of machine learning structure that combines neural networks and stochastic modeling in the form of a probabilistic model
+- One of the key goals of BNNs is to address some of the limitations neural networks have in scenarios of uncertainty around the parameters or structure of the network
+- In traditional neural networks, you have fixed weights and biases that determine how an input is transformed into an output
+- However, the results of this approach are limited in many scenarios dealing with uncertainty
+
+
+12. Fair ML
+- DeepMind presents the case for using a method known as Causal Bayesian Networks (CBN) to measure unfairness in datasets and machine learning models. 
+
 
 # Cool AI Tech releases
 - DeText : LinkedIn open-sources DeText, a flexible framework for different natural language understanding tasks
 - TransCoder : Facebook AI Research open-sources TransCoder, a framework that uses self-supervised learning to translate code between different programming languages
 - Google open-sourced Media Pipe Iris, a new machine learning model for iris estimation, which is essential in many vision analysis applications
 - PyTorch Lightning is a Keras of PyTorch
+- Pyro is one of the most recent additions to the world of probabilistic programming languages and one that is being used to power statistical workflows at Uber
