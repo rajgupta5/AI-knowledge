@@ -7,11 +7,18 @@
 - Tensoflow Quantum
 
 2. Semi-Supervised Learning
+- Imagine that you need to classify documents but you want to give your algorithm a hint about how to build the categories. 
+- You want to use only a small portion of labeled documents because not every document is labeled. 
+- At the same time, you want your model to classify the unlabeled documents as accurately as possible based on the ones that are already labeled.
+- Typically, this combination consists of a very small amount of labeled data and a very large amount of unlabeled data. 
+- We group similar data using an unsupervised learning algorithm and then use the existing labeled data to label the rest of the unlabeled data
 
 
 3. Model Serving
 
+
 4. MLFlow
+
 
 5. Meta Machine Learning
 - dozens of learning paradigms that sit between "supervised" and "unsupervised" learning
@@ -19,12 +26,14 @@
 - The Model-Agnostic Meta-Learning (MAML) technique explores how meta-learning can be ubiquitously applied to incredibly diverse deep learning models
 - Comet.ml is a Platform for Meta Machine Learning (GitHub of machine learning)
 
+
 6. Data Labeling
 - Supervised learning models need labeled datasets for training, and those are expensive to create and maintain
 - Labeling text datasets is different from labeling images, and that is different from labeling video or audio
 - platforms such as Labelbox, Snorkel.ai, and Scale AI drive innovation into the space
 - Snorkel Flow is a Platform to Unlock the Training Data Bottleneck in Machine Learning (https://www.snorkel.ai/)
 - Labelbox is a Data Labeling Platform for your Machine Learning Models
+
 
 
 7. Machine Teaching
@@ -37,12 +46,15 @@
 8. Reinformcement Learning
 - Acme: A new framework for distributed reinforcement learning
 
+
 9. Unsupervised Data Augmentation
 - technique for addressing the challenges of training semi-supervised learning models with small labeled datasets.
 
 
+
 10 NLP
 - Researchers at Google have developed a new deep-learning model called [BigBird](https://www.infoq.com/news/2020/09/google-bigbird-nlp/?utm_source=notification_email&utm_campaign=notifications&utm_medium=link&utm_content=content_in_followed_topic&utm_term=daily) that allows Transformer neural networks to process sequences up to 8x longer than previously possible
+
 
 11. Bayesian Neural Networks
 - are a type of machine learning structure that combines neural networks and stochastic modeling in the form of a probabilistic model
@@ -51,8 +63,10 @@
 - However, the results of this approach are limited in many scenarios dealing with uncertainty
 
 
+
 12. Fair ML
 - DeepMind presents the case for using a method known as Causal Bayesian Networks (CBN) to measure unfairness in datasets and machine learning models. 
+
 
 
 # Cool AI Tech releases
