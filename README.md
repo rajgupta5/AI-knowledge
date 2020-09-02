@@ -42,7 +42,7 @@
 
 
 10 NLP
-- Researchers at Google have developed a new deep-learning model called ![BigBird](https://www.infoq.com/news/2020/09/google-bigbird-nlp/?utm_source=notification_email&utm_campaign=notifications&utm_medium=link&utm_content=content_in_followed_topic&utm_term=daily) that allows Transformer neural networks to process sequences up to 8x longer than previously possible
+- Researchers at Google have developed a new deep-learning model called [BigBird](https://www.infoq.com/news/2020/09/google-bigbird-nlp/?utm_source=notification_email&utm_campaign=notifications&utm_medium=link&utm_content=content_in_followed_topic&utm_term=daily) that allows Transformer neural networks to process sequences up to 8x longer than previously possible
 
 11. Bayesian Neural Networks
 - are a type of machine learning structure that combines neural networks and stochastic modeling in the form of a probabilistic model
@@ -61,3 +61,4 @@
 - Google open-sourced Media Pipe Iris, a new machine learning model for iris estimation, which is essential in many vision analysis applications
 - PyTorch Lightning is a Keras of PyTorch
 - Pyro is one of the most recent additions to the world of probabilistic programming languages and one that is being used to power statistical workflows at Uber
+- [Model Zoo](https://modelzoo.dev/) : Deploying the initial machine learning model is only part of the challenge -- maintaining it can be just as hard. Model Zoo gives you the tools to diagnose, improve, and seamlessly update your model endpoints
