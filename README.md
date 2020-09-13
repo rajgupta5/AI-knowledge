@@ -79,7 +79,14 @@
 14. Graph Neural Networks
 - Graph neural networks (GNNs) is an area of deep learning that focuses on the creation of neural networks that operate efficiently in graph data structures
 - Deep Graph Library (DGL) is one of the most complete open-source offerings on the current market
+- DeepMind and Google unveiled research that improves the accuracy of Google Maps real-time ETAs using graph neural networks
 
+
+15. ML E2E Platforms
+- Amazon AWS Sagemaker
+- Microsoft Azure ML
+- Google GCP ML 
+- Data labeling, continuous deployment, model optimization are some of the areas that have the potential of creating a new generation of standalone platforms
 
 # Cool AI Tech releases
 - DeText : LinkedIn open-sources DeText, a flexible framework for different natural language understanding tasks
@@ -88,3 +95,5 @@
 - PyTorch Lightning is a Keras of PyTorch
 - Pyro is one of the most recent additions to the world of probabilistic programming languages and one that is being used to power statistical workflows at Uber
 - [Model Zoo](https://modelzoo.dev/) : Deploying the initial machine learning model is only part of the challenge -- maintaining it can be just as hard. Model Zoo gives you the tools to diagnose, improve, and seamlessly update your model endpoints
+- Opacus : Facebook open-sourced Opacus, a framework for differential privacy in PyTorch models
+- Polynote is a notebook-based platform created by Netflix,  allowing you to write production-ready data science code
