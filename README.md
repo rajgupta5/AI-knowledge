@@ -54,6 +54,9 @@
 
 10 NLP
 - Researchers at Google have developed a new deep-learning model called [BigBird](https://www.infoq.com/news/2020/09/google-bigbird-nlp/?utm_source=notification_email&utm_campaign=notifications&utm_medium=link&utm_content=content_in_followed_topic&utm_term=daily) that allows Transformer neural networks to process sequences up to 8x longer than previously possible
+- After OPENAI GPT2 1.5 billion followed by Microsoft’s Turing-NLG, which processed 17 billion parameters and OPENAI GPT3 175 billion parameters models , Microsoft announced a new release of its DeepSpeed framework (which powers Turing-NLG), which can train a model with up to a trillion parameters
+- Above is a consequence of  Factors : Computation Power and Parallelization techniques
+- GPT-3 Falls Short in Machine Comprehension
 
 
 11. Bayesian Neural Networks
