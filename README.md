@@ -71,6 +71,15 @@
 - DeepMind presents the case for using a method known as Causal Bayesian Networks (CBN) to measure unfairness in datasets and machine learning models. 
 
 
+13. MLOPS (machine learning operations)
+- MLOps is becoming a key component of the lifecycle of machine learning models
+- TFX(Tensorflow Extended) is Google’s Vision for Managing the Lifecycle of Machine Learning Models
+
+
+14. Graph Neural Networks
+- Graph neural networks (GNNs) is an area of deep learning that focuses on the creation of neural networks that operate efficiently in graph data structures
+- Deep Graph Library (DGL) is one of the most complete open-source offerings on the current market
+
 
 # Cool AI Tech releases
 - DeText : LinkedIn open-sources DeText, a flexible framework for different natural language understanding tasks
